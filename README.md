@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Zahra
 
-![Profile Views](https://komarev.com/ghpvc/?username=Z-Mosayebi&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Z-Mosayebi&color=greem)
 
 ## 🚀 About Me
 
