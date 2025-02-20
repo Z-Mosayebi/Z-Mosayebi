@@ -7,31 +7,30 @@
 
 ![Profile Image](https://raw.githubusercontent.com/Z-Mosayebi/Z-Mosayebi/main/animated-profile.png)
 
-I like using Generative AI in my projects. I am looking to work in a professional team in Europe.
+I am a passionate **Full-Stack Developer** with a strong interest in **Generative AI**, **Vue.js**,**React**, **Django**, and **Next.js**. I thrive in innovative environments and am eager to contribute to a **professional team in Europe**.
 
-I like using Generative AI in my projects. I am looking to work in a professional team in Europe.
-Hi, I'm **Zahra**, a passionate full-stack developer 🚀 currently exploring **Generative AI, Vue.js, Django, and Next.js**.
+### 🔥 What I'm Working On
+- Developing advanced applications using **AI-driven solutions**.
+- Exploring  **Next.js** for scalable web applications.
 
-- 🔥 I’m currently working on **[Your Current Project]**
-- 🌱 I’m currently learning **AWS, PostgreSQL, TypeScript**
-- 👯️ I’m looking to collaborate on **Open-source projects**
-- ⚡ Fun fact: **I love climbing and nature!**
+### 🌱 Current Learning Focus
+- Enhancing my skills in **Generative AI and automation**.
 
-## 📊 GitHub Stats
+### 👯 Collaboration & Open Source
+- Actively contributing to **open-source projects**.
+- Seeking collaboration opportunities to grow within a dynamic development team.
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Z-Mosayebi&show_icons=true&theme=dark)
+### ⚡ Beyond Code
+- **Tech Enthusiast:** Passionate about staying up-to-date with the latest advancements.
+- **Adventurer:** I love **climbing** and spending time in **nature**.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Z-Mosayebi&theme=dark)
+---
+*Let's build something amazing together! 🚀*
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Z-Mosayebi&layout=compact&theme=dark)
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Z-Mosayebi&theme=darkhub)
 
 ## 📧 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourprofile/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/zmosayebi/))
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Z-Mosayebi)
 
 ## 🔧 Technologies & Tools
@@ -45,11 +44,5 @@ Hi, I'm **Zahra**, a passionate full-stack developer 🚀 currently exploring **
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
-## 📌 Latest Projects
 
-- 🔹 **[Project 1 Name](https://github.com/Z-Mosayebi/project1)** – *Brief description of project.*
-- 🔹 **[Project 2 Name](https://github.com/Z-Mosayebi/project2)** – *Brief description of project.*
-- 🔹 **[Project 3 Name](https://github.com/Z-Mosayebi/project3)** – *Brief description of project.*
-
----
 *Thanks for stopping by! 😊 Let's connect and collaborate!*
